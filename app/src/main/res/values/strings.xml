@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">habitationAndroid</string>
+    <string name="nom">Nom</string>
+    <string name="adresse">Adresse</string>
+    <string name="surface">Surface</string>
+    <string name="nbe">Nombre de piéces</string>
+</resources>
