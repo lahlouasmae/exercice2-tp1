@@ -43,3 +43,6 @@ L'interface inclut les éléments suivants :
 2. Cochez la case "Piscine" si applicable.
 3. Appuyez sur le bouton **Calcul** pour obtenir le montant des impôts locaux.
 4. Le montant de base, l'impôt supplémentaire et l'impôt total s'afficheront en bas de l'écran.
+
+## Video descriptif
+https://github.com/user-attachments/assets/c4733c46-0d19-41d2-bef5-e0c1cf401a6b
